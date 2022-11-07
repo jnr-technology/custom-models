@@ -6,7 +6,7 @@
 
 ## Symbol VL53L5CX
 
-![VL53L5CX Symbol](VL53L5CX_Symbol.png)
+![VL53L5CX Symbol](src/VL53L5CX_Symbol.png)
 
 ## Footprint VL53L5CX
 
@@ -18,12 +18,12 @@
 
 *It is recommended to adjust the Paste Layer 10% smaller than the Pad Size*
 
-![VL53L5CX Footprint](VL53L5CX_Footprint.png)
+![VL53L5CX Footprint](src/VL53L5CX_Footprint.png)
 
 ## 3D Model VL53L5CX
 
-![VL53L5CX MODEL](VL53L5CX_MODEL1.jpg)
+![VL53L5CX MODEL](src/VL53L5CX_MODEL1.jpg)
 
-![VL53L5CX MODEL](VL53L5CX_MODEL2.jpg)
+![VL53L5CX MODEL](src/VL53L5CX_MODEL2.jpg)
 
-![VL53L5CX MODEL](VL53L5CX_MODEL3.jpg)
+![VL53L5CX MODEL](src/VL53L5CX_MODEL3.jpg)
